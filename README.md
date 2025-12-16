@@ -1,4 +1,8 @@
 # GRIP-Hand-Gesture-Controlled-Prosthetic
+
+https://github.com/user-attachments/assets/ef8e63d8-30a3-4289-9e7e-a5ecfac35324
+
+
 A gesture-controlled robotic hand using Python, OpenCV, cvzone, and Arduino.
 # G.R.I.P. Hand  
 **Gesture Responsive Intelligent Prosthetic Hand**
