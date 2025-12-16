@@ -3,9 +3,6 @@
 
 
 https://github.com/user-attachments/assets/dd8bfef5-d15d-412c-beaf-faa9d2564896
-![dbf71a40-ce2d-412c-b5e3-fe34bfc25e37](https://github.com/user-attachments/assets/69c17978-9611-487c-83fc-7819f2c8008f)
-![67a18d99-5802-4b66-89cc-2c9bf14425ab](https://github.com/user-attachments/assets/51767f55-7a76-4317-bb83-53d140d20414)
-![3d2d9001-687d-463f-8529-862184b5b8cc](https://github.com/user-attachments/assets/2e058cb7-67c6-43ae-a5e1-5e4f4370501b)
 
 
 
