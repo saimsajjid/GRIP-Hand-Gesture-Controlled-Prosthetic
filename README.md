@@ -76,4 +76,7 @@ Example:
 ---
 
 ##  Acknowledgment
-This project was built as a learning experience.Feel free to contact me.If you feel any problem in it.
+This project was built as a learning experience.
+If you run into issues or have questions about the circuit:
+
+1.  **Open an Issue:** Please click the "Issues" tab at the top of this repo and describe your problem. I check these regularly!
